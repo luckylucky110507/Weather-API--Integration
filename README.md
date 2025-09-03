@@ -41,5 +41,7 @@ Through this task, I practiced real-world skills that are essential in modern we
 
    ## OUTPUT Screenshot
    Here is the sample output of the project:
+   #OUTPUT
    
+   <img width="1891" height="988" alt="Image" src="https://github.com/user-attachments/assets/836d9cc5-9e92-40b3-a7b5-1cf0744e7f91" />
    
